@@ -96,3 +96,4 @@ C:\Users\teren\Documents\Visual Studio 2019\Projects\SeleniumSample\SeleniumSamp
 C:\Users\teren\Documents\Visual Studio 2019\Projects\SeleniumSample\SeleniumSample\obj\Debug\net5.0\ref\SeleniumSample.dll
 C:\Users\teren\Documents\Visual Studio 2019\Projects\SeleniumSample\SeleniumSample\obj\Debug\net5.0\SeleniumSample.pdb
 C:\Users\teren\Documents\Visual Studio 2019\Projects\SeleniumSample\SeleniumSample\obj\Debug\net5.0\SeleniumSample.genruntimeconfig.cache
+C:\Users\teren\Documents\Visual Studio 2019\Projects\SeleniumSample\SeleniumSample\obj\Debug\net5.0\SeleniumSample.csprojAssemblyReference.cache
